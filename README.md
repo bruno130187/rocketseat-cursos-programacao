@@ -16,7 +16,7 @@ Backend Spring Boot do curso de Java da Rocketseat
 Para se conectar usando pgAdmin pela URL acima utilize o acesso que está no arquivo focker-compose.yaml acima (email e senha informados no serviço pgadmin).
 
 <p align="center">
-<img src="https://github.com/bruno130187/minhas-vendas-nextjs-frontend/blob/main/minhas-vendas-next.png" />
+<img src="https://github.com/bruno130187/rocketseat-cursos-programacao/blob/master/curso-programacao.png" />
 </p> 
 
 Segue meu LinkedIn: [https://www.linkedin.com/in/bruno-araujo-oficial/]
